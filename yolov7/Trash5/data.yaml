@@ -1,0 +1,5 @@
+train: C:\Users\Nakul\Downloads\Garbage_detection\yolov7\Trash5\train\images # ../train/images
+val: C:\Users\Nakul\Downloads\Garbage_detection\yolov7\Trash5\valid\images # ../valid/images
+
+nc: 2
+names: ['not trash', 'trash']
