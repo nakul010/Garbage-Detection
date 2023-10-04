@@ -6,7 +6,7 @@
 
 - Implementing hardware components, including a Raspberry Pi connected to a motor driver and a camera, to enable real-time video feed for garbage detection. <br>
 
-#Some Raw Images
+## Some Raw Images
 
 ![raw_image](https://github.com/nakul010/Garbage-Detection/assets/75235451/c850dc00-e9e4-43e2-a3ae-415459c99621)
 
