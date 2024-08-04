@@ -19,3 +19,10 @@
 ![Collage](https://github.com/nakul010/Garbage-Detection/assets/98902181/8892fdd5-9247-41b0-bcf2-ac60829e177c)
 
 ![Screenshot 2023-12-05 152300](https://github.com/nakul010/Garbage-Detection/assets/98902181/bea930fa-dba4-4a50-a977-e69978549802)
+
+![Robot-Front](https://github.com/user-attachments/assets/96c9db4b-19ed-4ab8-b168-902106a77912)
+
+![Robot-Right](https://github.com/user-attachments/assets/13f27a51-c30f-44a6-af6d-615d06a2c405)
+
+![Robot-Left](https://github.com/user-attachments/assets/01f55c9f-e47a-4911-b9c3-da1892fa7141)
+
